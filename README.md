@@ -1,8 +1,8 @@
-# evidenca nakupov
+#evidenca nakupov
 
-To je moj projekt pir predmetu Uvod v programiranje:
+To je moj projekt pri predmetu Uvod v programiranje:
 
 Načrt projekta:
-1.
+1. 
 2.
 3.
