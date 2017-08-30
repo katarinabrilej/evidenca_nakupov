@@ -2,7 +2,7 @@
 
 To je moj projekt pri predmetu *Uvod v programiranje*:
 
-** Načrt projekta: **
+**Načrt projekta:**
 
 1. uporabnika vprašamo po kupljenem izdelku in njegovi ceni, podatke shranjujemo v dve datoteki
 2. možnost izpisa mesečnega stanja, uporabnik nastavi mesečni limit in dobi obvestilo, ko je porabil 80% sredstev
