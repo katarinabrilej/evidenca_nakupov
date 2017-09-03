@@ -1,10 +1,39 @@
+S črkami A,D,E,G,L,N,O in R sestavi ime in priimek \n nekdanjega predsednika ZDA. Posamezno črko \n smeš uporabiti večkrat*N*N*N*N*RONALD REAGAN
+Izberi najboljšo primerjavo. \n \n LETO je proti KOTLET kot DAN proti:*JABOLKO*GROZDJE*MALINA*MANDARINA*D
+Katero število ne sodi med ostala?*42*76*65*23*A
+Kateri zapis ne sodi med ostale?*ŽIRK*CERS*SAP*KIP*C
 S katerim številom se nadaljuje zaporedje: \n \n 4 5 9 14 23 37...?*50*60*70*80*B
+Katero število ne sodi med ostala?*34*47*51*68*B
 V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n PRES(...)TAJL*N*N*N*N*KOK
 Kateri zapis ne sodi med ostale?*SKAJAT*BROTA*LEČI*RUPE*B
 Izberi najboljšo primerjavo: \n \n SALAMA je proti BANANA kot SEJEM proti*PESEK*ESEJ*MNOŽICA*LESTEV*A
 S katero besedo se nadaljuje zaporedje: \n \n PITA KITA KOTA..?*LOKA*SITA*KOLO*KOSA*D
-S črkami A,D,E,G,L,N,O in R sestavi ime in priimek \n nekdanjega predsednika ZDA. Posamezno črko \n smeš uporabiti večkrat*N*N*N*N*RONALD REAGAN
-Katero število ne sodi med ostala?*34*47*51*68*B
-Kateri zapis ne sodi med ostale?*ŽIRK*CERS*SAP*KIP*C
-Izberite najboljšo primerjavo. \n \n LETO je proti KOTLET kot DAN proti:*JABOLKO*GROZDJE*MALINA*MANDARINA*D
-Katero število ne sodi med ostala?*42*76*65*23*A
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n KOZA(...)ITAL*N*N*N*N*REC
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n JAST(...)RA*N*N*N*N*REB
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \nKR(...)ULA*N*N*N*N*AMP
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n BA(...)CA*N*N*N*N*SEN
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n DE(...)EK*N*N*N*N*NAR
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n PRS(...)GO*N*N*N*N*TAN
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n POD(...)MO*N*N*N*N*PIS
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n OL(...)OK*N*N*N*N*TAR
+S katerim številom se nadaljuje zaporedje: \n \n 312 329 346 363 380 ...?*N*N*N*N*397
+S katerim številom se nadaljuje zaporedje: \n \n 4 7 13 25 49 97 ...?*N*N*N*N*193
+S katerim številom se nadaljuje zaporedje: \n \n 4 7 12 19 28 39 ...?*N*N*N*N*52
+S katerim številom se nadaljuje zaporedje: \n \n 21 31 32 42 43 53 ...?*N*N*N*N*54
+Katero število ne sodi med ostala?*540*150*340*120*C
+Katero število ne sodi med ostala?*135*468*357*678*D
+Katero število ne sodi med ostala?*889*454*152*255*C
+Katero število ne sodi med ostala?*56*32*64*16*A
+Katera beseda ne sodi med ostale?*LOPAR*VERZ*EKIPA*GOL*VERZ
+Iz treh zlogov sestavite ime orožja. \n \n ŠTO - MI - PI - VOL - PU - LJEZ - LA*N*N*N*N*PIŠTOLA
+Kateri zapis ne sodi med ostale?*ČVOKA*KEP*SENIT*KOJVA*C
+Če premečete črke v zapisu PAVOKIR, dobite:*NARAVOSLOVNO ZNANOST*RASTLINO*POKLIC*AFRIŠKO DRŽAVO*B
+Izberite najboljšo primerjavo. \n \n PORAZ je proti ZAPOR kot KOLPA proti*PREVAL*POKAL*POLJE*SONCE*B
+Katera rastlina se skriva v enem izmed zapisov? \n \n CVEROK LUBEČA SEMOT GRAJUA*N*N*N*N*ČEBULA
+Katero orodje se skriva v enem izmed zapisov? \n \n VOPICE IGOVOR DILOVKA ISDAKA*N*N*N*N*KLADIVO
+S katero besedo se nadaljuje zaporedje? \n \n PISTA STEPA PETAK ...*PESEK*POTEK*KLEPET*PRELAZ*B
+Iz treh zlogov sestavite ime slovenskega kraja. \n \n ROŽ - MA - JA - LJU - NE - TRO - \n \n NA - RI - PO*N*N*N*N*TROJANE
+Katera beseda ne sodi med ostale?*SLOVES*MODEM*ODJEM*KLOBUK*C
+S katero besedo se nadaljuje zaporedje? \n \n MELISA ISLAM SILA ...*SOL*KIS*LAS*LISA*C
+Če premečete črke v zapisu FLOMRAV, dobite:*NEMŠKO MESTO*FIZIKALNO ENOTO*REDKO KOVINO*GRŠKEGA FILOZOFA*C
+Izberite najboljšo primerjavo. LOK je proti KOLOBAR kot RIS proti:*MLEKARNA*SIRARNA*PEKARNA*KAVARNA*B
