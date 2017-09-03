@@ -1,0 +1,10 @@
+S katerim številom se nadaljuje zaporedje: \n \n 4 5 9 14 23 37...?*50*60*70*80*B
+V polje vpiši niz 3 črk, s katerim \n se konča prva beseda in začne druga: \n \n PRES(...)TAJL*N*N*N*N*KOK
+Kateri zapis ne sodi med ostale?*SKAJAT*BROTA*LEČI*RUPE*B
+Izberi najboljšo primerjavo: \n \n SALAMA je proti BANANA kot SEJEM proti*PESEK*ESEJ*MNOŽICA*LESTEV*A
+S katero besedo se nadaljuje zaporedje: \n \n PITA KITA KOTA..?*LOKA*SITA*KOLO*KOSA*D
+S črkami A,D,E,G,L,N,O in R sestavi ime in priimek \n nekdanjega predsednika ZDA. Posamezno črko \n smeš uporabiti večkrat*N*N*N*N*RONALD REAGAN
+Katero število ne sodi med ostala?*34*47*51*68*B
+Kateri zapis ne sodi med ostale?*ŽIRK*CERS*SAP*KIP*C
+Izberite najboljšo primerjavo. \n \n LETO je proti KOTLET kot DAN proti:*JABOLKO*GROZDJE*MALINA*MANDARINA*D
+Katero število ne sodi med ostala?*42*76*65*23*A
