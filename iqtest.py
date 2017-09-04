@@ -64,7 +64,7 @@ def preberi_datoteko(ime_datoteke, seznam, mesto):
         print(" {} {} {} {} \n \n Pravilni odgovor: {} \n Tvoj odgovor: {} \n".format(odgovoriA[mesto], odgovoriB[mesto],odgovoriC[mesto],odgovoriD[mesto],pravilni_odgovor(mesto),seznam[mesto]), file = d)
     
 def preveri(x, stevec, okno2, seznam, crka):
-    #funkcijo uporabimo vprimeru, ko uorabnik odgovor izbere s klikom na gumb
+    #funkcijo uporabimo vprimeru, ko uporabnik odgovor izbere s klikom na gumb
     preberi_datoteko("resitve.txt", seznam, x)
     pobrisi_odgovore(x)
     okno2.destroy()   
