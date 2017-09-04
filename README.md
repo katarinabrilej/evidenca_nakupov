@@ -2,8 +2,8 @@
 
 To je moj projekt pri predmetu *Uvod v programiranje*:
 
-program omogoča reševanje kviza, dolgega 10 ali 20 vprašanj, na koncu ima uporabnik
+Program omogoča reševanje kviza, dolgega 10 ali 20 vprašan. Na koncu ima uporabnik
 možnost izpisa rešitev.
-dodano je tudi okno za preprosto dodajanje novih vprašanj
+Dodan je tudi program za preprosto dodajanje novih vprašanj.
 
   
